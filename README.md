@@ -18,8 +18,8 @@ There are 3 design options: Prefix-length or Trace-level (batch=True/False in st
 
 ## Performance comparison with baselines (OC-SVM, iForest)
 
-![aa](./data/t1.PNG){: width="80%" height="80%"}
-![aa](./data/t2.PNG){: width="80%" height="80%"}
+![title](/data/t1.PNG){: width="100" height="100"}
+![aa](/data/t2.PNG){: width="80%" height="80%"}
 
 
 &#x1F53A; Be careful to correctly set your working directory for each R file as uploaded files contain my own local directory.
