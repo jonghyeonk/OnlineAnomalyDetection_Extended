@@ -18,10 +18,9 @@ There are 3 design options: Prefix-length or Trace-level (batch=True/False in st
 
 ## Performance comparison with baselines (OC-SVM, iForest)
 
-![](./data/t1.PNG | width=100)
-![](./data/t2.PNG | width=100)
+![aa](./data/t1.PNG | width=100){: width="80%" height="80%"}
+![aa](./data/t2.PNG | width=100){: width="80%" height="80%"}
 
-<img src="https://https://github.com/jonghyeonk/..." data-canonical-src="https://https://github.com/jonghyeonk/data/t1.PNG" width="200" />
 
 &#x1F53A; Be careful to correctly set your working directory for each R file as uploaded files contain my own local directory.
 
