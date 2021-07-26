@@ -18,8 +18,8 @@ There are 3 design options: Prefix-length or Trace-level (batch=True/False in st
 
 ## Performance comparison with baselines (OC-SVM, iForest)
 
-![alt text](http://url/to/t1.png)
-![alt text](http://url/to/t2.png)
+![alt text](http://url/data/t1.png)
+![alt text](http://url/data/t2.png)
 
 
 &#x1F53A; Be careful to correctly set your working directory for each R file as uploaded files contain my own local directory.
